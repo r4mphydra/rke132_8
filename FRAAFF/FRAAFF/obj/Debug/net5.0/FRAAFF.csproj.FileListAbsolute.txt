@@ -1,0 +1,16 @@
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FRAAFF\bin\Debug\net5.0\FRAAFF.exe
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FRAAFF\bin\Debug\net5.0\FRAAFF.deps.json
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FRAAFF\bin\Debug\net5.0\FRAAFF.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FRAAFF\bin\Debug\net5.0\FRAAFF.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FRAAFF\bin\Debug\net5.0\FRAAFF.dll
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FRAAFF\bin\Debug\net5.0\ref\FRAAFF.dll
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FRAAFF\bin\Debug\net5.0\FRAAFF.pdb
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FRAAFF\obj\Debug\net5.0\FRAAFF.csproj.AssemblyReference.cache
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FRAAFF\obj\Debug\net5.0\FRAAFF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FRAAFF\obj\Debug\net5.0\FRAAFF.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FRAAFF\obj\Debug\net5.0\FRAAFF.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FRAAFF\obj\Debug\net5.0\FRAAFF.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FRAAFF\obj\Debug\net5.0\FRAAFF.dll
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FRAAFF\obj\Debug\net5.0\ref\FRAAFF.dll
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FRAAFF\obj\Debug\net5.0\FRAAFF.pdb
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FRAAFF\obj\Debug\net5.0\FRAAFF.genruntimeconfig.cache

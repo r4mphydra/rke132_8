@@ -1,0 +1,15 @@
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\Chuck Norris\obj\Debug\net5.0\Chuck Norris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\Chuck Norris\obj\Debug\net5.0\Chuck Norris.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\Chuck Norris\obj\Debug\net5.0\Chuck Norris.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\Chuck Norris\obj\Debug\net5.0\Chuck Norris.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\Chuck Norris\bin\Debug\net5.0\Chuck Norris.exe
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\Chuck Norris\bin\Debug\net5.0\Chuck Norris.deps.json
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\Chuck Norris\bin\Debug\net5.0\Chuck Norris.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\Chuck Norris\bin\Debug\net5.0\Chuck Norris.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\Chuck Norris\bin\Debug\net5.0\Chuck Norris.dll
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\Chuck Norris\bin\Debug\net5.0\ref\Chuck Norris.dll
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\Chuck Norris\bin\Debug\net5.0\Chuck Norris.pdb
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\Chuck Norris\obj\Debug\net5.0\Chuck Norris.dll
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\Chuck Norris\obj\Debug\net5.0\ref\Chuck Norris.dll
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\Chuck Norris\obj\Debug\net5.0\Chuck Norris.pdb
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\Chuck Norris\obj\Debug\net5.0\Chuck Norris.genruntimeconfig.cache

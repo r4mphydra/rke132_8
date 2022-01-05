@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FRAAFF/1.0.0": {
+        "runtime": {
+          "FRAAFF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FRAAFF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

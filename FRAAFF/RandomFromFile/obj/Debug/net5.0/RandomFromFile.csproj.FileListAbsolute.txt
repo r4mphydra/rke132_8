@@ -1,0 +1,15 @@
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\RandomFromFile\bin\Debug\net5.0\RandomFromFile.exe
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\RandomFromFile\bin\Debug\net5.0\RandomFromFile.deps.json
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\RandomFromFile\bin\Debug\net5.0\RandomFromFile.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\RandomFromFile\bin\Debug\net5.0\RandomFromFile.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\RandomFromFile\bin\Debug\net5.0\RandomFromFile.dll
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\RandomFromFile\bin\Debug\net5.0\ref\RandomFromFile.dll
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\RandomFromFile\bin\Debug\net5.0\RandomFromFile.pdb
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\RandomFromFile\obj\Debug\net5.0\RandomFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\RandomFromFile\obj\Debug\net5.0\RandomFromFile.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\RandomFromFile\obj\Debug\net5.0\RandomFromFile.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\RandomFromFile\obj\Debug\net5.0\RandomFromFile.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\RandomFromFile\obj\Debug\net5.0\RandomFromFile.dll
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\RandomFromFile\obj\Debug\net5.0\ref\RandomFromFile.dll
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\RandomFromFile\obj\Debug\net5.0\RandomFromFile.pdb
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\RandomFromFile\obj\Debug\net5.0\RandomFromFile.genruntimeconfig.cache

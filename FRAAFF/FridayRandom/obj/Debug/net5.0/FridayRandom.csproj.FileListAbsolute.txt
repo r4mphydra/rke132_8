@@ -1,0 +1,16 @@
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FridayRandom\bin\Debug\net5.0\FridayRandom.exe
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FridayRandom\bin\Debug\net5.0\FridayRandom.deps.json
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FridayRandom\bin\Debug\net5.0\FridayRandom.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FridayRandom\bin\Debug\net5.0\FridayRandom.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FridayRandom\bin\Debug\net5.0\FridayRandom.dll
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FridayRandom\bin\Debug\net5.0\ref\FridayRandom.dll
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FridayRandom\bin\Debug\net5.0\FridayRandom.pdb
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FridayRandom\obj\Debug\net5.0\FridayRandom.csproj.AssemblyReference.cache
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FridayRandom\obj\Debug\net5.0\FridayRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FridayRandom\obj\Debug\net5.0\FridayRandom.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FridayRandom\obj\Debug\net5.0\FridayRandom.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FridayRandom\obj\Debug\net5.0\FridayRandom.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FridayRandom\obj\Debug\net5.0\FridayRandom.dll
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FridayRandom\obj\Debug\net5.0\ref\FridayRandom.dll
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FridayRandom\obj\Debug\net5.0\FridayRandom.pdb
+C:\Users\Artjom\Documents\RKE132\Nadal8\FRAAFF\FridayRandom\obj\Debug\net5.0\FridayRandom.genruntimeconfig.cache
